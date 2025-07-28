@@ -1,4 +1,4 @@
-module dhb
+module cardbinance
 
 go 1.22
 
